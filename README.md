@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeryandev&label=Profile%20views&color=0e75b6&style=flat" alt="georgeryandev" /> </p>
 
-- 🔭 I’m currently working on [Bubblegum](Secret :\))
+- 🔭 I’m currently working on [Bubblegum](Secret)
 
 - 🌱 I’m currently learning **MERN Stack and Tailwind CSS, Next.JS, Go**
 
