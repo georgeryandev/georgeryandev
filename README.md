@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bubblegum](Secret)
 
-- 🌱 I’m currently learning **MERN Stack and Tailwind CSS, Next.JS, Go**
+- 🌱 I’m currently learning **Tailwind CSS and  Go**
 
 - 👯 I’m looking to collaborate on **Any worthwhile cause.**
 
